@@ -80,7 +80,7 @@ export interface College {
   college_id: string;
   name: string;
   short_name: string;
-  logo_url: str;
+  logo_url: string;
   cover_image_url: string;
   gallery_images: string[];
   description: string;
