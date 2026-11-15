@@ -37,3 +37,4 @@ venv/
 .env.*
 !.env.example
 gridx_backend_db.json
+grid-x/
